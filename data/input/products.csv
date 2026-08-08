@@ -1,0 +1,5 @@
+product_id,product_name,category,unit_price
+101,Cloud Storage,Cloud,120.0
+102,Data Platform,Analytics,250.0
+103,Security Suite,Security,180.0
+104,AI Analytics,AI,320.0

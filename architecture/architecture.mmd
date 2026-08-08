@@ -1,0 +1,10 @@
+flowchart LR
+    A[SAP] --> E[GCS Bronze]
+    B[Oracle] --> E
+    C[SQL Server] --> E
+    D[CSV / API] --> E
+    E --> F[Apache Airflow]
+    F --> G[Dataproc / PySpark]
+    G --> H[GCS Silver]
+    H --> I[BigQuery Gold]
+    I --> J[BI / Analytics]

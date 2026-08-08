@@ -1,0 +1,6 @@
+customer_id,customer_name,country,customer_type
+1,Acme Finance,IN,Enterprise
+2,Northwind Bank,US,Enterprise
+3,BlueSky Retail,UK,SMB
+4,Metro Services,IN,SMB
+5,Global Trade,SG,Enterprise
